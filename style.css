@@ -23,4 +23,10 @@ p {
 
 p + a {
     font-weight: bold;
+    color: blue;
+}
+
+p ~ a {
+    font-weight: bold;
+    color: yellow;
 }
