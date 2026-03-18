@@ -5,6 +5,7 @@
 h1 {
     height: 40px;
     color: blue;
+    font-weight: bold;
 }
 h2 {
     height: 30px;
@@ -16,4 +17,5 @@ label {
 }
 p {
     color: black;
+    font-weight: bold;
 }
