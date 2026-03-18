@@ -4,9 +4,11 @@
 
 
 h1 {
+    height: 400px;
     color: blue;
 }
 h2 {
+    height: 300px;
     color: aqua;
 }
 label {
