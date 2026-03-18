@@ -3,16 +3,16 @@
 }
 
 h1 {
-    height: 40px;
+    height: 20px;
     color: blue;
     font-weight: bold;
 }
 h2 {
-    height: 30px;
+    height:15px;
     color:blueviolet;
 }
 label {
-    height: 20px;
+    height: 12px;
     color: black;
 }
 p {
