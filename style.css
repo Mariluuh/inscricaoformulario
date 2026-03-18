@@ -21,12 +21,12 @@ p {
     font-weight: bold;
 }
 
-p + a {
+p ~ a {
     font-weight: bold;
     color: blue;
 }
 
-p ~ a {
+p > a {
     font-weight: bold;
     color: yellow;
 }
